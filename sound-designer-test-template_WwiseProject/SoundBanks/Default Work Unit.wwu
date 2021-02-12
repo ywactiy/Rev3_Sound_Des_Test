@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F6BEF99E-27D3-4E8D-B7B9-309A8ADD28D1}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{F6BEF99E-27D3-4E8D-B7B9-309A8ADD28D1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="GitHub_dont_like_large_files_01" ID="{C3E45915-AADC-4E34-B4FE-81F260E4E582}">
+					<PropertyList>
+						<Property Name="Maximum" Type="int32">
+							<ValueList>
+								<Value>95000000</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{FD527AFD-F6A0-4216-BD9B-328C9BB3E5E6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="City_top" ID="{67CBA10C-718D-4284-9BB6-F6471F660706}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsStart" ID="{2001F71A-B99F-4396-B6EF-DFD3FB30615E}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FottstepsAwake" ID="{BB3EAF9D-2BC4-4456-A0C1-B86E9167CC0E}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Baby" ID="{F9B398E6-5734-46EC-989E-52157A9C99E3}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Panelka_Aux" ID="{AD7ECD8F-AC8D-47A6-BFDA-6B999E2925D4}" WorkUnitID="{FD527AFD-F6A0-4216-BD9B-328C9BB3E5E6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="City_top" ID="{7A5ACC9E-6FF2-47F2-86A6-FD8B857DE8A5}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootstepsStop" ID="{4F209ACB-D797-49A6-8AA3-4C876BC5D76C}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="City" ID="{C6EF7C6D-4D5F-4AEF-B22C-21BFF8C878CB}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="City" ID="{A5CEC0EA-DD62-4BEC-A3BE-6191957DC6D2}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Baby" ID="{A7A1C3C3-39AC-4C10-B628-311BAAE52B0D}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="GitHub_dont_like_large_files_02" ID="{74CA1026-DC05-456D-AA33-A22C6570FE28}">
+					<PropertyList>
+						<Property Name="Maximum" Type="int32">
+							<ValueList>
+								<Value>95000000</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ObjectInclusionList>
+						<ObjectRef Name="Garbage" ID="{0C4F9FA3-6018-4296-A614-06CBD4FE2A32}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dogi" ID="{9AB2B89A-9088-44DD-9D6C-8D74DB92B6CD}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Dogi" ID="{ED32E652-6873-4698-83EA-7FBE7E9ADA23}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Song" ID="{0A1E13B5-0D54-4B4A-B14A-FB99358A21FC}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lamp_buzz1" ID="{200F1C0F-B64E-4BCE-8F05-6F49A49FEA25}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Garbage" ID="{E4A1797C-DC99-4EC7-9E0B-3BA2C84CD39A}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Song" ID="{DB162E03-99E2-4F61-8A65-B263F9D904D1}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Lamp" ID="{9029E994-3F95-4FE7-8DA2-EFB4F1FAD8A0}" WorkUnitID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

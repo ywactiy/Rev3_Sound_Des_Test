@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3E206452-BA44-4697-AE18-5701E64905B0}" SchemaVersion="97">
+	<Modulators>
+		<WorkUnit Name="Default Work Unit" ID="{3E206452-BA44-4697-AE18-5701E64905B0}" PersistMode="Standalone">
+			<ChildrenList>
+				<ModulatorTime Name="Garbage Time" ID="{4A7F0EBA-895B-4531-9906-6EE9DB3FD673}" ShortID="250501248">
+					<PropertyList>
+						<Property Name="EnvelopeStopPlayback" Type="bool" Value="False"/>
+						<Property Name="TimeModDuration" Type="Real64" Value="7"/>
+						<Property Name="TimeModLoops" Type="int32" Value="0"/>
+					</PropertyList>
+				</ModulatorTime>
+				<ModulatorTime Name="SongTime" ID="{4A43DD78-F597-4CC1-8E92-7AC397F4EBBB}" ShortID="476176869">
+					<PropertyList>
+						<Property Name="TimeModDuration" Type="Real64" Value="20.6"/>
+						<Property Name="TimeModLoops" Type="int32" Value="0"/>
+						<Property Name="TimeModPlaybackRate" Type="Real64" Value="2.5">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{EA1FD637-332F-4E77-802E-AE44F669798C}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="3"/>
+											<Property Name="Min" Type="Real64" Value="-1"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+				</ModulatorTime>
+				<ModulatorLfo Name="123" ID="{014BD6DD-2EBA-4C86-9F89-C10AD65603E6}" ShortID="842719939">
+					<PropertyList>
+						<Property Name="LfoDepth" Type="Real64" Value="90"/>
+						<Property Name="LfoFrequency" Type="Real64" Value="1376.52"/>
+						<Property Name="LfoInitialPhase" Type="Real64" Value="155"/>
+						<Property Name="LfoPWM" Type="Real64" Value="66.3"/>
+						<Property Name="LfoSmoothing" Type="Real64" Value="20">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{CE3841A3-BFF0-4DF2-8FCF-61F92E5EFBC8}">
+										<PropertyList>
+											<Property Name="Max" Type="Real64" Value="50"/>
+											<Property Name="Min" Type="Real64" Value="-20"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="LfoWaveform" Type="int32" Value="1"/>
+					</PropertyList>
+				</ModulatorLfo>
+				<ModulatorTime Name="ClothesTime" ID="{47EDB094-EE31-43BC-9D9A-D00B21A00426}" ShortID="902264682">
+					<PropertyList>
+						<Property Name="EnvelopeStopPlayback" Type="bool" Value="False"/>
+						<Property Name="TimeModLoops" Type="int32" Value="0"/>
+					</PropertyList>
+				</ModulatorTime>
+			</ChildrenList>
+		</WorkUnit>
+	</Modulators>
+</WwiseDocument>

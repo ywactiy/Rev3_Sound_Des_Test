@@ -1,0 +1,13 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2886192479	Panelka_Main			\Default Work Unit\Master Audio Bus\Panelka_Main	
+
+Effect plug-ins	ID	Name	Type				Notes
+	801547429	Hall_Large_(Custom)	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

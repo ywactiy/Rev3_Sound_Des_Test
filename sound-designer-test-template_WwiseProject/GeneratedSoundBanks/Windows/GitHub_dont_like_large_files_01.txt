@@ -1,0 +1,59 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1543097833	Baby			\Default Work Unit\Ambience\Baby	
+	2608219982	FootstepsStart			\Default Work Unit\FootstepsStart	
+	2610807630	FottstepsAwake			\Default Work Unit\FottstepsAwake	
+	3594956988	City_top			\Default Work Unit\Ambience\City_top	
+	3888786832	City			\Default Work Unit\Ambience\City	
+	4209021358	FootstepsStop			\Default Work Unit\FootstepsStop	
+
+Modulator Time	ID	Name			Wwise Object Path	Notes
+	902264682	ClothesTime			\Default Work Unit\ClothesTime	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1442319434	Panelka_Aux			\Default Work Unit\Master Audio Bus\Panelka_Aux	
+
+Effect plug-ins	ID	Name	Type				Notes
+	801547429	Hall_Large_(Custom)	Wwise RoomVerb			
+	937863885	Wwise_Gain_(Custom)	Wwise Gain			
+	2995775460	Room_Small	Wwise RoomVerb			
+	3043085106	High_Impact	Wwise Compressor			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	14019547	Footsteps_16	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_16_4E736991.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_16		98768
+	22530799	Footsteps_12	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_12_B0E91D37.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_12		88124
+	67868451	City_top	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\07 - city. medium traffic and city rumble from balcony. ambience _3A5007E4.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\City\City_top		22973604
+	100265986	Footsteps_03	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_03_826A743D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_03		107484
+	143574940	Footsteps_05	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_05_99ACBBC4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_05		106968
+	158981958	Footsteps_07	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_07_79A6A6EF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_07		108084
+	260056917	Footsteps_11	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_11_BE29A19D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_11		102448
+	280737760	baby2	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\baby2_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Baby\baby2		14106128
+	317390255	Footsteps_25	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_25_2D8752C2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_25		93104
+	320855678	Footsteps_06	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_06_75E37490.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_06		92588
+	338064761	Footsteps_18	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_18_AF08DB1E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_18		93220
+	435064735	Footsteps_19	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_19_F2B826F8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_19		96556
+	471862117	Clothe_05	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Clothe_05_6BE28354.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes\Clothe_05		126848
+	479352933	Footsteps_08	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_08_7F406216.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_08		103188
+	495124320	Footsteps_14	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_14_7542746F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_14		99084
+	515548988	Footsteps_22	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_22_0E5D2346.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_22		91172
+	531817576	Footsteps_23	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_23_226BDAF3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_23		92084
+	550980954	Footsteps_02	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_02_EFB5F980.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_02		105748
+	655272264	City	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\04 - city. heavy traffic and pedestrians. city rumble. ambience _371A775C.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\City\City		22981300
+	656912835	Footsteps_21	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_21_E334728D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_21		100924
+	668628269	Footsteps_01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_01_3210CEDE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_01		75308
+	670044333	Footsteps_24	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_24_17184BB8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_24		96080
+	777512371	Footsteps_10	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_10_3F8249A7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_10		92340
+	782905598	Footsteps_13	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_13_496F6CD7.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_13		108468
+	796517257	Clothe_03	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Clothe_03_6BE28354.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes\Clothe_03		114556
+	829314999	Footsteps_04	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_04_36CC0629.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_04		95128
+	910296089	Footsteps_17	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_17_5BD9EFCE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_17		101456
+	949904856	Footsteps_15	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_15_51D4B9AF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_15		101148
+	990417128	Clothe_02	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Clothe_02_6BE28354.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes\Clothe_02		166136
+	1011149614	Footsteps_09	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_09_C9DB218F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_09		102756
+	1020038055	Clothe_04	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Clothe_04_6BE28354.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes\Clothe_04		131584
+	1028481279	Clothe_01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Clothe_01_6BE28354.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Clothes\Clothe_01		88672
+	1037066149	baby1	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\baby1_BA0643FE.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Baby\baby1		27106088
+	1058816219	Footsteps_20	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Footsteps_20_A4DEB459.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Steps\Footsteps_20		96184
+

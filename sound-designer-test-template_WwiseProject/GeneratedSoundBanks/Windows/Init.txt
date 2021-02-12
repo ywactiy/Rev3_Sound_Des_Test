@@ -1,0 +1,15 @@
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	1442319434	Panelka_Aux			\Default Work Unit\Master Audio Bus\Panelka_Aux	
+
+Effect plug-ins	ID	Name	Type				Notes
+	801547429	Hall_Large_(Custom)	Wwise RoomVerb			
+	3043085106	High_Impact	Wwise Compressor			
+
+Audio Devices	ID	Name	Type				Notes
+	289592396	Microsoft_Spatial_Sound_Platform_Output	Microsoft Spatial Sound Platform Output			
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

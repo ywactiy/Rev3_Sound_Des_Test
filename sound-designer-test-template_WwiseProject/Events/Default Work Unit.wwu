@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{E41D14AE-2AA0-46C1-80A7-51852ADF6E4C}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Ambience" ID="{7DE63FE5-3064-422A-A14C-F64399ABFB38}" ShortID="110350231">
+					<ChildrenList>
+						<Event Name="Lamp" ID="{9029E994-3F95-4FE7-8DA2-EFB4F1FAD8A0}">
+							<ChildrenList>
+								<Action Name="" ID="{5410A757-A8A1-4D96-828D-2FF24CE4EFAB}" ShortID="825685543">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="lamp_buzz1" ID="{200F1C0F-B64E-4BCE-8F05-6F49A49FEA25}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Garbage" ID="{E4A1797C-DC99-4EC7-9E0B-3BA2C84CD39A}">
+							<ChildrenList>
+								<Action Name="" ID="{224F8C30-D009-4FE4-B7D9-A7CC6FD30817}" ShortID="951115362">
+									<PropertyList>
+										<Property Name="Delay" Type="Real64" Value="5">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{46A3FA25-CB15-47E5-9F8D-49E00F783885}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="5"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Probability" Type="Real64" Value="15"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Garbage" ID="{0C4F9FA3-6018-4296-A614-06CBD4FE2A32}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Dogi" ID="{9AB2B89A-9088-44DD-9D6C-8D74DB92B6CD}">
+							<ChildrenList>
+								<Action Name="" ID="{9A256424-B3A5-40CB-AEAE-E4E2F708A7DB}" ShortID="950301694">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Dogi" ID="{ED32E652-6873-4698-83EA-7FBE7E9ADA23}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="City" ID="{A5CEC0EA-DD62-4BEC-A3BE-6191957DC6D2}">
+							<ChildrenList>
+								<Action Name="" ID="{AD8F9422-445D-43C0-96AF-E9B8227EC269}" ShortID="564963326">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="City" ID="{C6EF7C6D-4D5F-4AEF-B22C-21BFF8C878CB}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="City_top" ID="{7A5ACC9E-6FF2-47F2-86A6-FD8B857DE8A5}">
+							<ChildrenList>
+								<Action Name="" ID="{26FDE861-B810-4526-B364-0EB3418BE835}" ShortID="121828978">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="City_top" ID="{67CBA10C-718D-4284-9BB6-F6471F660706}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Baby" ID="{F9B398E6-5734-46EC-989E-52157A9C99E3}">
+							<ChildrenList>
+								<Action Name="" ID="{E00A08BB-A187-43B6-AC9B-0F9602F5EB83}" ShortID="542317946">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Baby" ID="{A7A1C3C3-39AC-4C10-B628-311BAAE52B0D}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Song" ID="{0A1E13B5-0D54-4B4A-B14A-FB99358A21FC}">
+							<ChildrenList>
+								<Action Name="" ID="{337DC23D-3BFB-47C2-9CF6-38EFC89CDE37}" ShortID="273793918">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Song" ID="{DB162E03-99E2-4F61-8A65-B263F9D904D1}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+				<Event Name="FootstepsStart" ID="{2001F71A-B99F-4396-B6EF-DFD3FB30615E}">
+					<ChildrenList>
+						<Action Name="" ID="{56C53666-0192-4F3B-8720-F0ABD25F4D35}" ShortID="1006731651">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FootstepsStop" ID="{4F209ACB-D797-49A6-8AA3-4C876BC5D76C}">
+					<ChildrenList>
+						<Action Name="" ID="{2923245E-4D3B-4812-A6C7-649FDE5F3D4B}" ShortID="436647427">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FottstepsAwake" ID="{BB3EAF9D-2BC4-4456-A0C1-B86E9167CC0E}">
+					<ChildrenList>
+						<Action Name="" ID="{F4CEAF93-9DAC-4BAB-AA5F-FBA42011EBD8}" ShortID="460737559">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="12"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+								<Property Name="Volume" Type="Real64" Value="-96"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8D776553-E436-488B-82BE-44692D475208}" ShortID="567959635">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="12"/>
+								<Property Name="Delay" Type="Real64" Value="0.5"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+								<Property Name="Volume" Type="Real64" Value="-10"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

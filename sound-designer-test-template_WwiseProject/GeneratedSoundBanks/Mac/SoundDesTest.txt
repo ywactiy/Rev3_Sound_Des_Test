@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	657744959	Lamp			\Default Work Unit\Ambience\Lamp	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	2886192479	Panelka_Main			\Default Work Unit\Master Audio Bus\Panelka_Main	
+
+Effect plug-ins	ID	Name	Type				Notes
+	801547429	Hall_Large_(Custom)	Wwise RoomVerb			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	228160240	lamp_buzz1	C:\Games\sound-designer-test-template\sound-designer-test-template_WwiseProject\.cache\Mac\SFX\lamp_buzz1_66502F93.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\lamp_buzz1		88300
+

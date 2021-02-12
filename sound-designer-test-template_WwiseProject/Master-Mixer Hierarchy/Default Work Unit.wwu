@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FD527AFD-F6A0-4216-BD9B-328C9BB3E5E6}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{FD527AFD-F6A0-4216-BD9B-328C9BB3E5E6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice" PluginName="System" CompanyID="0" PluginID="174" PluginType="7">
+							<ObjectRef Name="System" ID="{B5D08E49-AD23-44EE-BC00-22855E2F47C2}" WorkUnitID="{E2BA8F0B-2089-4B10-BE6B-17FB9D4F41EA}"/>
+						</Reference>
+						<Reference Name="Effect0" PluginName="Wwise Compressor" CompanyID="0" PluginID="108" PluginType="3">
+							<ObjectRef Name="High_Impact" ID="{2AFD6FB0-C906-4683-A377-FEEEF72967B0}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AuxBus Name="Panelka_Aux" ID="{AD7ECD8F-AC8D-47A6-BFDA-6B999E2925D4}">
+							<PropertyList>
+								<Property Name="BusChannelConfig" Type="int32">
+									<ValueList>
+										<Value>12546</Value>
+									</ValueList>
+								</Property>
+								<Property Name="BusVolume" Type="Real64">
+									<ValueList>
+										<Value>-14</Value>
+									</ValueList>
+								</Property>
+								<Property Name="HoldEmitterPositionOrientation" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Attenuation">
+									<ObjectRef Name="Panelka_Aux" ID="{5C6C78FC-47F4-4388-9EA9-8B1A9EC74CF9}" WorkUnitID="{7DF2234B-F5F8-48FA-B358-85EED0951BD5}"/>
+								</Reference>
+								<Reference Name="Effect0">
+									<Custom CreatedFrom="{6D154498-FF6D-4823-96FC-56841B70E079}">
+										<Effect Name="Hall_Large_(Custom)" ID="{13B13DC9-F7E2-4663-A5C9-580B85D80040}" ShortID="801547429" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+											<PropertyList>
+												<Property Name="DecayTime" Type="Real32" Value="1"/>
+												<Property Name="Density" Type="Real32" Value="17"/>
+												<Property Name="DryLevel" Type="Real32" Value="-96"/>
+												<Property Name="ERLevel" Type="Real32" Value="0"/>
+												<Property Name="ERPattern" Type="int32" Value="15"/>
+												<Property Name="Filter1Freq" Type="Real32" Value="590"/>
+												<Property Name="Filter1Gain" Type="Real32" Value="3"/>
+												<Property Name="Filter1InsertPos" Type="int32" Value="2"/>
+												<Property Name="HFDamping" Type="Real32" Value="10"/>
+												<Property Name="PreDelay" Type="Real32" Value="52"/>
+												<Property Name="Quality" Type="int32" Value="16"/>
+												<Property Name="ReverbLevel" Type="Real32" Value="-10"/>
+												<Property Name="RoomShape" Type="Real32" Value="25"/>
+												<Property Name="RoomSize" Type="Real32" Value="69"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+							</ReferenceList>
+						</AuxBus>
+					</ChildrenList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

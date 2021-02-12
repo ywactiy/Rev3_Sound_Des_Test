@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3878645712">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedAuxBusses>
+				<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+			</IncludedAuxBusses>
+		</SoundBank>
+		<SoundBank Id="1958120445" Language="SFX" Hash="1215889557">
+			<ObjectPath>\SoundBanks\Default Work Unit\GitHub_dont_like_large_files_02</ObjectPath>
+			<ShortName>GitHub_dont_like_large_files_02</ShortName>
+			<Path>GitHub_dont_like_large_files_02.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2012068542" Name="Dogi" ObjectPath="\Events\Default Work Unit\Ambience\Dogi" MaxAttenuation="17.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="201972401" Language="SFX">
+							<ShortName>52 - dog. mixed breed medium dog. barking. animal.wav</ShortName>
+							<Path>SFX\52 - dog. mixed breed medium dog. barking. animal_89476BD8.wem</Path>
+						</File>
+						<File Id="519274045" Language="SFX">
+							<ShortName>53 - dog. collie large dog - barking. animal.wav</ShortName>
+							<Path>SFX\53 - dog. collie large dog - barking. animal_08574587.wem</Path>
+						</File>
+						<File Id="801760365" Language="SFX">
+							<ShortName>51 - dog. samoyed medium dog. barking. animal.wav</ShortName>
+							<Path>SFX\51 - dog. samoyed medium dog. barking. animal_47EF342C.wem</Path>
+						</File>
+						<File Id="1053275846" Language="SFX">
+							<ShortName>54 - dog. shepherd large dog - single bark. animal.wav</ShortName>
+							<Path>SFX\54 - dog. shepherd large dog - single bark. animal_C2CB5FF8.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="2092055118" Name="Garbage" ObjectPath="\Events\Default Work Unit\Ambience\Garbage" MaxAttenuation="15.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="17.273710">
+					<IncludedMemoryFiles>
+						<File Id="2142953" Language="SFX">
+							<ShortName>Foley Box Rattle Empty Glass Bottles 01.wav</ShortName>
+							<Path>SFX\Foley Box Rattle Empty Glass Bottles 01_6BE28354.wem</Path>
+						</File>
+						<File Id="16960453" Language="SFX">
+							<ShortName>Crash Beer Bottle Break 01.wav</ShortName>
+							<Path>SFX\Crash Beer Bottle Break 01_6BE28354.wem</Path>
+						</File>
+						<File Id="111822805" Language="SFX">
+							<ShortName>metal_drum_impact_thud_05.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_05_6BE28354.wem</Path>
+						</File>
+						<File Id="227209182" Language="SFX">
+							<ShortName>Foley Box Put Down Empty Glass Bottles 01.wav</ShortName>
+							<Path>SFX\Foley Box Put Down Empty Glass Bottles 01_6BE28354.wem</Path>
+						</File>
+						<File Id="230855399" Language="SFX">
+							<ShortName>Crash Beer Bottle Drop And Break 02.wav</ShortName>
+							<Path>SFX\Crash Beer Bottle Drop And Break 02_6BE28354.wem</Path>
+						</File>
+						<File Id="468660830" Language="SFX">
+							<ShortName>Crash Beer Bottle On Cinder Block Smash 01.wav</ShortName>
+							<Path>SFX\Crash Beer Bottle On Cinder Block Smash 01_6BE28354.wem</Path>
+						</File>
+						<File Id="513777066" Language="SFX">
+							<ShortName>metal_drum_impact_thud_07.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_07_6BE28354.wem</Path>
+						</File>
+						<File Id="562259302" Language="SFX">
+							<ShortName>metal_drum_impact_thud_06.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_06_6BE28354.wem</Path>
+						</File>
+						<File Id="773951458" Language="SFX">
+							<ShortName>metal_drum_impact_thud_04.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_04_6BE28354.wem</Path>
+						</File>
+						<File Id="928371839" Language="SFX">
+							<ShortName>Foley Bottles Rattle Glass Empty 01.wav</ShortName>
+							<Path>SFX\Foley Bottles Rattle Glass Empty 01_6BE28354.wem</Path>
+						</File>
+						<File Id="949186456" Language="SFX">
+							<ShortName>metal_drum_impact_thud_08.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_08_6BE28354.wem</Path>
+						</File>
+						<File Id="957839094" Language="SFX">
+							<ShortName>Crash Beer Bottle On Cinder Block Smash 02.wav</ShortName>
+							<Path>SFX\Crash Beer Bottle On Cinder Block Smash 02_6BE28354.wem</Path>
+						</File>
+						<File Id="1002031961" Language="SFX">
+							<ShortName>metal_drum_impact_thud_03.wav</ShortName>
+							<Path>SFX\metal_drum_impact_thud_03_6BE28354.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="657744959" Name="Lamp" ObjectPath="\Events\Default Work Unit\Ambience\Lamp" MaxAttenuation="8.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="228160240" Language="SFX">
+							<ShortName>lamp_buzz1.wav</ShortName>
+							<Path>SFX\lamp_buzz1_66502F93.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="804823466" Name="Song" ObjectPath="\Events\Default Work Unit\Ambience\Song" MaxAttenuation="13.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="650759810" Language="SFX">
+							<ShortName>song.wav</ShortName>
+							<Path>SFX\song_0C592796.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+					</AuxBusSends>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="2142953" Language="SFX">
+					<ShortName>Foley Box Rattle Empty Glass Bottles 01.wav</ShortName>
+					<Path>SFX\Foley Box Rattle Empty Glass Bottles 01_6BE28354.wem</Path>
+				</File>
+				<File Id="16960453" Language="SFX">
+					<ShortName>Crash Beer Bottle Break 01.wav</ShortName>
+					<Path>SFX\Crash Beer Bottle Break 01_6BE28354.wem</Path>
+				</File>
+				<File Id="111822805" Language="SFX">
+					<ShortName>metal_drum_impact_thud_05.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_05_6BE28354.wem</Path>
+				</File>
+				<File Id="201972401" Language="SFX">
+					<ShortName>52 - dog. mixed breed medium dog. barking. animal.wav</ShortName>
+					<Path>SFX\52 - dog. mixed breed medium dog. barking. animal_89476BD8.wem</Path>
+				</File>
+				<File Id="227209182" Language="SFX">
+					<ShortName>Foley Box Put Down Empty Glass Bottles 01.wav</ShortName>
+					<Path>SFX\Foley Box Put Down Empty Glass Bottles 01_6BE28354.wem</Path>
+				</File>
+				<File Id="228160240" Language="SFX">
+					<ShortName>lamp_buzz1.wav</ShortName>
+					<Path>SFX\lamp_buzz1_66502F93.wem</Path>
+				</File>
+				<File Id="230855399" Language="SFX">
+					<ShortName>Crash Beer Bottle Drop And Break 02.wav</ShortName>
+					<Path>SFX\Crash Beer Bottle Drop And Break 02_6BE28354.wem</Path>
+				</File>
+				<File Id="468660830" Language="SFX">
+					<ShortName>Crash Beer Bottle On Cinder Block Smash 01.wav</ShortName>
+					<Path>SFX\Crash Beer Bottle On Cinder Block Smash 01_6BE28354.wem</Path>
+				</File>
+				<File Id="513777066" Language="SFX">
+					<ShortName>metal_drum_impact_thud_07.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_07_6BE28354.wem</Path>
+				</File>
+				<File Id="519274045" Language="SFX">
+					<ShortName>53 - dog. collie large dog - barking. animal.wav</ShortName>
+					<Path>SFX\53 - dog. collie large dog - barking. animal_08574587.wem</Path>
+				</File>
+				<File Id="562259302" Language="SFX">
+					<ShortName>metal_drum_impact_thud_06.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_06_6BE28354.wem</Path>
+				</File>
+				<File Id="650759810" Language="SFX">
+					<ShortName>song.wav</ShortName>
+					<Path>SFX\song_0C592796.wem</Path>
+				</File>
+				<File Id="773951458" Language="SFX">
+					<ShortName>metal_drum_impact_thud_04.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_04_6BE28354.wem</Path>
+				</File>
+				<File Id="801760365" Language="SFX">
+					<ShortName>51 - dog. samoyed medium dog. barking. animal.wav</ShortName>
+					<Path>SFX\51 - dog. samoyed medium dog. barking. animal_47EF342C.wem</Path>
+				</File>
+				<File Id="928371839" Language="SFX">
+					<ShortName>Foley Bottles Rattle Glass Empty 01.wav</ShortName>
+					<Path>SFX\Foley Bottles Rattle Glass Empty 01_6BE28354.wem</Path>
+				</File>
+				<File Id="949186456" Language="SFX">
+					<ShortName>metal_drum_impact_thud_08.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_08_6BE28354.wem</Path>
+				</File>
+				<File Id="957839094" Language="SFX">
+					<ShortName>Crash Beer Bottle On Cinder Block Smash 02.wav</ShortName>
+					<Path>SFX\Crash Beer Bottle On Cinder Block Smash 02_6BE28354.wem</Path>
+				</File>
+				<File Id="1002031961" Language="SFX">
+					<ShortName>metal_drum_impact_thud_03.wav</ShortName>
+					<Path>SFX\metal_drum_impact_thud_03_6BE28354.wem</Path>
+				</File>
+				<File Id="1053275846" Language="SFX">
+					<ShortName>54 - dog. shepherd large dog - single bark. animal.wav</ShortName>
+					<Path>SFX\54 - dog. shepherd large dog - single bark. animal_C2CB5FF8.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1958120446" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\GitHub_dont_like_large_files_01</ObjectPath>
+			<ShortName>GitHub_dont_like_large_files_01</ShortName>
+			<Path>GitHub_dont_like_large_files_01.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1543097833" Name="Baby" ObjectPath="\Events\Default Work Unit\Ambience\Baby" MaxAttenuation="8.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="280737760" Language="SFX">
+							<ShortName>baby2.wav</ShortName>
+							<Path>SFX\baby2_6BE28354.wem</Path>
+						</File>
+						<File Id="1037066149" Language="SFX">
+							<ShortName>baby1.wav</ShortName>
+							<Path>SFX\baby1_BA0643FE.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<AuxBusSends>
+						<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+					</AuxBusSends>
+				</Event>
+				<Event Id="3888786832" Name="City" ObjectPath="\Events\Default Work Unit\Ambience\City" MaxAttenuation="9.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="655272264" Language="SFX">
+							<ShortName>04 - city. heavy traffic and pedestrians. city rumble. ambience .wav</ShortName>
+							<Path>SFX\04 - city. heavy traffic and pedestrians. city rumble. ambience _371A775C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3594956988" Name="City_top" ObjectPath="\Events\Default Work Unit\Ambience\City_top" MaxAttenuation="9.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="67868451" Language="SFX">
+							<ShortName>07 - city. medium traffic and city rumble from balcony. ambience .wav</ShortName>
+							<Path>SFX\07 - city. medium traffic and city rumble from balcony. ambience _3A5007E4.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2608219982" Name="FootstepsStart" ObjectPath="\Events\Default Work Unit\FootstepsStart" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="14019547" Language="SFX">
+							<ShortName>Footsteps_16.wav</ShortName>
+							<Path>SFX\Footsteps_16_4E736991.wem</Path>
+						</File>
+						<File Id="22530799" Language="SFX">
+							<ShortName>Footsteps_12.wav</ShortName>
+							<Path>SFX\Footsteps_12_B0E91D37.wem</Path>
+						</File>
+						<File Id="100265986" Language="SFX">
+							<ShortName>Footsteps_03.wav</ShortName>
+							<Path>SFX\Footsteps_03_826A743D.wem</Path>
+						</File>
+						<File Id="143574940" Language="SFX">
+							<ShortName>Footsteps_05.wav</ShortName>
+							<Path>SFX\Footsteps_05_99ACBBC4.wem</Path>
+						</File>
+						<File Id="158981958" Language="SFX">
+							<ShortName>Footsteps_07.wav</ShortName>
+							<Path>SFX\Footsteps_07_79A6A6EF.wem</Path>
+						</File>
+						<File Id="260056917" Language="SFX">
+							<ShortName>Footsteps_11.wav</ShortName>
+							<Path>SFX\Footsteps_11_BE29A19D.wem</Path>
+						</File>
+						<File Id="317390255" Language="SFX">
+							<ShortName>Footsteps_25.wav</ShortName>
+							<Path>SFX\Footsteps_25_2D8752C2.wem</Path>
+						</File>
+						<File Id="320855678" Language="SFX">
+							<ShortName>Footsteps_06.wav</ShortName>
+							<Path>SFX\Footsteps_06_75E37490.wem</Path>
+						</File>
+						<File Id="338064761" Language="SFX">
+							<ShortName>Footsteps_18.wav</ShortName>
+							<Path>SFX\Footsteps_18_AF08DB1E.wem</Path>
+						</File>
+						<File Id="435064735" Language="SFX">
+							<ShortName>Footsteps_19.wav</ShortName>
+							<Path>SFX\Footsteps_19_F2B826F8.wem</Path>
+						</File>
+						<File Id="471862117" Language="SFX">
+							<ShortName>Clothe_05.wav</ShortName>
+							<Path>SFX\Clothe_05_6BE28354.wem</Path>
+						</File>
+						<File Id="479352933" Language="SFX">
+							<ShortName>Footsteps_08.wav</ShortName>
+							<Path>SFX\Footsteps_08_7F406216.wem</Path>
+						</File>
+						<File Id="495124320" Language="SFX">
+							<ShortName>Footsteps_14.wav</ShortName>
+							<Path>SFX\Footsteps_14_7542746F.wem</Path>
+						</File>
+						<File Id="515548988" Language="SFX">
+							<ShortName>Footsteps_22.wav</ShortName>
+							<Path>SFX\Footsteps_22_0E5D2346.wem</Path>
+						</File>
+						<File Id="531817576" Language="SFX">
+							<ShortName>Footsteps_23.wav</ShortName>
+							<Path>SFX\Footsteps_23_226BDAF3.wem</Path>
+						</File>
+						<File Id="550980954" Language="SFX">
+							<ShortName>Footsteps_02.wav</ShortName>
+							<Path>SFX\Footsteps_02_EFB5F980.wem</Path>
+						</File>
+						<File Id="656912835" Language="SFX">
+							<ShortName>Footsteps_21.wav</ShortName>
+							<Path>SFX\Footsteps_21_E334728D.wem</Path>
+						</File>
+						<File Id="668628269" Language="SFX">
+							<ShortName>Footsteps_01.wav</ShortName>
+							<Path>SFX\Footsteps_01_3210CEDE.wem</Path>
+						</File>
+						<File Id="670044333" Language="SFX">
+							<ShortName>Footsteps_24.wav</ShortName>
+							<Path>SFX\Footsteps_24_17184BB8.wem</Path>
+						</File>
+						<File Id="777512371" Language="SFX">
+							<ShortName>Footsteps_10.wav</ShortName>
+							<Path>SFX\Footsteps_10_3F8249A7.wem</Path>
+						</File>
+						<File Id="782905598" Language="SFX">
+							<ShortName>Footsteps_13.wav</ShortName>
+							<Path>SFX\Footsteps_13_496F6CD7.wem</Path>
+						</File>
+						<File Id="796517257" Language="SFX">
+							<ShortName>Clothe_03.wav</ShortName>
+							<Path>SFX\Clothe_03_6BE28354.wem</Path>
+						</File>
+						<File Id="829314999" Language="SFX">
+							<ShortName>Footsteps_04.wav</ShortName>
+							<Path>SFX\Footsteps_04_36CC0629.wem</Path>
+						</File>
+						<File Id="910296089" Language="SFX">
+							<ShortName>Footsteps_17.wav</ShortName>
+							<Path>SFX\Footsteps_17_5BD9EFCE.wem</Path>
+						</File>
+						<File Id="949904856" Language="SFX">
+							<ShortName>Footsteps_15.wav</ShortName>
+							<Path>SFX\Footsteps_15_51D4B9AF.wem</Path>
+						</File>
+						<File Id="990417128" Language="SFX">
+							<ShortName>Clothe_02.wav</ShortName>
+							<Path>SFX\Clothe_02_6BE28354.wem</Path>
+						</File>
+						<File Id="1011149614" Language="SFX">
+							<ShortName>Footsteps_09.wav</ShortName>
+							<Path>SFX\Footsteps_09_C9DB218F.wem</Path>
+						</File>
+						<File Id="1020038055" Language="SFX">
+							<ShortName>Clothe_04.wav</ShortName>
+							<Path>SFX\Clothe_04_6BE28354.wem</Path>
+						</File>
+						<File Id="1028481279" Language="SFX">
+							<ShortName>Clothe_01.wav</ShortName>
+							<Path>SFX\Clothe_01_6BE28354.wem</Path>
+						</File>
+						<File Id="1058816219" Language="SFX">
+							<ShortName>Footsteps_20.wav</ShortName>
+							<Path>SFX\Footsteps_20_A4DEB459.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="4209021358" Name="FootstepsStop" ObjectPath="\Events\Default Work Unit\FootstepsStop" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2610807630" Name="FottstepsAwake" ObjectPath="\Events\Default Work Unit\FottstepsAwake" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<IncludedAuxBusses>
+				<AuxBus Id="1442319434" Name="Panelka_Aux" ObjectPath="\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Panelka_Aux"/>
+			</IncludedAuxBusses>
+			<IncludedMemoryFiles>
+				<File Id="14019547" Language="SFX">
+					<ShortName>Footsteps_16.wav</ShortName>
+					<Path>SFX\Footsteps_16_4E736991.wem</Path>
+				</File>
+				<File Id="22530799" Language="SFX">
+					<ShortName>Footsteps_12.wav</ShortName>
+					<Path>SFX\Footsteps_12_B0E91D37.wem</Path>
+				</File>
+				<File Id="67868451" Language="SFX">
+					<ShortName>07 - city. medium traffic and city rumble from balcony. ambience .wav</ShortName>
+					<Path>SFX\07 - city. medium traffic and city rumble from balcony. ambience _3A5007E4.wem</Path>
+				</File>
+				<File Id="100265986" Language="SFX">
+					<ShortName>Footsteps_03.wav</ShortName>
+					<Path>SFX\Footsteps_03_826A743D.wem</Path>
+				</File>
+				<File Id="143574940" Language="SFX">
+					<ShortName>Footsteps_05.wav</ShortName>
+					<Path>SFX\Footsteps_05_99ACBBC4.wem</Path>
+				</File>
+				<File Id="158981958" Language="SFX">
+					<ShortName>Footsteps_07.wav</ShortName>
+					<Path>SFX\Footsteps_07_79A6A6EF.wem</Path>
+				</File>
+				<File Id="260056917" Language="SFX">
+					<ShortName>Footsteps_11.wav</ShortName>
+					<Path>SFX\Footsteps_11_BE29A19D.wem</Path>
+				</File>
+				<File Id="280737760" Language="SFX">
+					<ShortName>baby2.wav</ShortName>
+					<Path>SFX\baby2_6BE28354.wem</Path>
+				</File>
+				<File Id="317390255" Language="SFX">
+					<ShortName>Footsteps_25.wav</ShortName>
+					<Path>SFX\Footsteps_25_2D8752C2.wem</Path>
+				</File>
+				<File Id="320855678" Language="SFX">
+					<ShortName>Footsteps_06.wav</ShortName>
+					<Path>SFX\Footsteps_06_75E37490.wem</Path>
+				</File>
+				<File Id="338064761" Language="SFX">
+					<ShortName>Footsteps_18.wav</ShortName>
+					<Path>SFX\Footsteps_18_AF08DB1E.wem</Path>
+				</File>
+				<File Id="435064735" Language="SFX">
+					<ShortName>Footsteps_19.wav</ShortName>
+					<Path>SFX\Footsteps_19_F2B826F8.wem</Path>
+				</File>
+				<File Id="471862117" Language="SFX">
+					<ShortName>Clothe_05.wav</ShortName>
+					<Path>SFX\Clothe_05_6BE28354.wem</Path>
+				</File>
+				<File Id="479352933" Language="SFX">
+					<ShortName>Footsteps_08.wav</ShortName>
+					<Path>SFX\Footsteps_08_7F406216.wem</Path>
+				</File>
+				<File Id="495124320" Language="SFX">
+					<ShortName>Footsteps_14.wav</ShortName>
+					<Path>SFX\Footsteps_14_7542746F.wem</Path>
+				</File>
+				<File Id="515548988" Language="SFX">
+					<ShortName>Footsteps_22.wav</ShortName>
+					<Path>SFX\Footsteps_22_0E5D2346.wem</Path>
+				</File>
+				<File Id="531817576" Language="SFX">
+					<ShortName>Footsteps_23.wav</ShortName>
+					<Path>SFX\Footsteps_23_226BDAF3.wem</Path>
+				</File>
+				<File Id="550980954" Language="SFX">
+					<ShortName>Footsteps_02.wav</ShortName>
+					<Path>SFX\Footsteps_02_EFB5F980.wem</Path>
+				</File>
+				<File Id="655272264" Language="SFX">
+					<ShortName>04 - city. heavy traffic and pedestrians. city rumble. ambience .wav</ShortName>
+					<Path>SFX\04 - city. heavy traffic and pedestrians. city rumble. ambience _371A775C.wem</Path>
+				</File>
+				<File Id="656912835" Language="SFX">
+					<ShortName>Footsteps_21.wav</ShortName>
+					<Path>SFX\Footsteps_21_E334728D.wem</Path>
+				</File>
+				<File Id="668628269" Language="SFX">
+					<ShortName>Footsteps_01.wav</ShortName>
+					<Path>SFX\Footsteps_01_3210CEDE.wem</Path>
+				</File>
+				<File Id="670044333" Language="SFX">
+					<ShortName>Footsteps_24.wav</ShortName>
+					<Path>SFX\Footsteps_24_17184BB8.wem</Path>
+				</File>
+				<File Id="777512371" Language="SFX">
+					<ShortName>Footsteps_10.wav</ShortName>
+					<Path>SFX\Footsteps_10_3F8249A7.wem</Path>
+				</File>
+				<File Id="782905598" Language="SFX">
+					<ShortName>Footsteps_13.wav</ShortName>
+					<Path>SFX\Footsteps_13_496F6CD7.wem</Path>
+				</File>
+				<File Id="796517257" Language="SFX">
+					<ShortName>Clothe_03.wav</ShortName>
+					<Path>SFX\Clothe_03_6BE28354.wem</Path>
+				</File>
+				<File Id="829314999" Language="SFX">
+					<ShortName>Footsteps_04.wav</ShortName>
+					<Path>SFX\Footsteps_04_36CC0629.wem</Path>
+				</File>
+				<File Id="910296089" Language="SFX">
+					<ShortName>Footsteps_17.wav</ShortName>
+					<Path>SFX\Footsteps_17_5BD9EFCE.wem</Path>
+				</File>
+				<File Id="949904856" Language="SFX">
+					<ShortName>Footsteps_15.wav</ShortName>
+					<Path>SFX\Footsteps_15_51D4B9AF.wem</Path>
+				</File>
+				<File Id="990417128" Language="SFX">
+					<ShortName>Clothe_02.wav</ShortName>
+					<Path>SFX\Clothe_02_6BE28354.wem</Path>
+				</File>
+				<File Id="1011149614" Language="SFX">
+					<ShortName>Footsteps_09.wav</ShortName>
+					<Path>SFX\Footsteps_09_C9DB218F.wem</Path>
+				</File>
+				<File Id="1020038055" Language="SFX">
+					<ShortName>Clothe_04.wav</ShortName>
+					<Path>SFX\Clothe_04_6BE28354.wem</Path>
+				</File>
+				<File Id="1028481279" Language="SFX">
+					<ShortName>Clothe_01.wav</ShortName>
+					<Path>SFX\Clothe_01_6BE28354.wem</Path>
+				</File>
+				<File Id="1037066149" Language="SFX">
+					<ShortName>baby1.wav</ShortName>
+					<Path>SFX\baby1_BA0643FE.wem</Path>
+				</File>
+				<File Id="1058816219" Language="SFX">
+					<ShortName>Footsteps_20.wav</ShortName>
+					<Path>SFX\Footsteps_20_A4DEB459.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

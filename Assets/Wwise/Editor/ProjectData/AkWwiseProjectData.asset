@@ -1,0 +1,282 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b40a003cabcce9409d70f59359463fb, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 0eb71efedd1e104ea6c79d3e2ef2f2fe
+    GuidInternal: 
+    m_lastTime: -8585885206092540822
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: fd7a52fda0f61642bd9b328c9bb3e5e6
+    GuidInternal: 
+    m_lastTime: -8585885206134704688
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+    - name: Panelka_Aux
+      guid: 8fcd7ead8daca647bfda6b999e2925d4
+      id: 1442319434
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Panelka_Aux
+        ObjectType: 1
+      Path: Default Work Unit\Master Audio Bus\Panelka_Aux
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 9ef9bef6d3278d4eb7b9309a8add28d1
+    GuidInternal: 
+    m_lastTime: -8585885168396838677
+    List:
+    - name: GitHub_dont_like_large_files_01
+      guid: 1559e4c3dcaa344eb4fe81f260e4e582
+      id: 1958120446
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: GitHub_dont_like_large_files_01
+        ObjectType: 7
+      Path: Default Work Unit\GitHub_dont_like_large_files_01
+    - name: GitHub_dont_like_large_files_02
+      guid: 2610ca7405dc6d45aa33a22c6570fe28
+      id: 1958120445
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: GitHub_dont_like_large_files_02
+        ObjectType: 7
+      Path: Default Work Unit\GitHub_dont_like_large_files_02
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: ae141de4a02ac14680a751852adf6e4c
+    GuidInternal: 
+    m_lastTime: -8585885206157911592
+    List:
+    - name: Ambience
+      guid: e53fe67d64302a42a14cf64399abfb38
+      id: 85412153
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      Path: Default Work Unit\Ambience
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Baby
+      guid: e698b3f93457ec46989e52157a9c99e3
+      id: 1543097833
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Baby
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\Baby
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: City
+      guid: eac0cea562ddec4ba3be6191957dc6d2
+      id: 3888786832
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: City
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\City
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: City_top
+      guid: 9ecc5a7af26ff24786a6fd8b857de8a5
+      id: 3594956988
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: City_top
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\City_top
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Dogi
+      guid: 9ab8b29a8890dd449d6c8d74db92b6cd
+      id: 2012068542
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Dogi
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\Dogi
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FootstepsStart
+      guid: 1af701209fb99643b6efdfd3fb30615e
+      id: 2608219982
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: FootstepsStart
+        ObjectType: 3
+      Path: Default Work Unit\FootstepsStart
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FootstepsStop
+      guid: cb9a204f97d7a6498aa34c876bc5d76c
+      id: 4209021358
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: FootstepsStop
+        ObjectType: 3
+      Path: Default Work Unit\FootstepsStop
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FottstepsAwake
+      guid: 9daf3ebbc42b5644a0c1b86e9167cc0e
+      id: 2610807630
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: FottstepsAwake
+        ObjectType: 3
+      Path: Default Work Unit\FottstepsAwake
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Garbage
+      guid: 7c79a1e499dcc74e9e0b3ba2c84cd39a
+      id: 2092055118
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Garbage
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\Garbage
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Lamp
+      guid: 94e92990953fe74f8da2efb4f1fad8a0
+      id: 657744959
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Lamp
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\Lamp
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Song
+      guid: b5131e0a540d4a4bb14afb99358a21fc
+      id: 804823466
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 4
+      - ElementName: Song
+        ObjectType: 3
+      Path: Default Work Unit\Ambience\Song
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: f10b2d1f9606aa44a191d3356d38c62b
+    GuidInternal: 
+    m_lastTime: -8585885206157901596
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 8b982f9dae24fa4680309bf68542265c
+    GuidInternal: 
+    m_lastTime: -8585885206092560798
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: afea8b3f875d5d4784ccea762ddc64da
+    GuidInternal: 
+    m_lastTime: -8585885206092550806
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Default Work Unit
+      ObjectType: 12
+    ParentPath: Default Work Unit
+    guid: 182c10383a023d4096061c1c9b1bef96
+    GuidInternal: 
+    m_lastTime: -8585885206092550806
+    List: []
+  ExpandedItems:
+  - /sound-designer-test-template_WwiseProject
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

@@ -1,0 +1,48 @@
+Event	ID	Name			Wwise Object Path	Notes
+	657744959	Lamp			\Default Work Unit\Ambience\Lamp	
+	804823466	Song			\Default Work Unit\Ambience\Song	
+	2012068542	Dogi			\Default Work Unit\Ambience\Dogi	
+	2092055118	Garbage			\Default Work Unit\Ambience\Garbage	
+
+Modulator LFO	ID	Name			Wwise Object Path	Notes
+	842719939	123			\Default Work Unit\123	
+
+Modulator Envelope	ID	Name			Wwise Object Path	Notes
+	154160432	Modulator Envelope (Custom)				
+
+Modulator Time	ID	Name			Wwise Object Path	Notes
+	250501248	Garbage Time			\Default Work Unit\Garbage Time	
+	476176869	SongTime			\Default Work Unit\SongTime	
+
+Effect plug-ins	ID	Name	Type				Notes
+	399001553	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	463901828	Wwise_Parametric_EQ_(Custom)	Wwise Parametric EQ			
+	605429883	Club_Music_Distant_01_(Custom)	Wwise Parametric EQ			
+	847111002	Wwise_Guitar_Distortion_(Custom)	Wwise Guitar Distortion			
+	1159390747	Room_Medium_Tiled	Wwise RoomVerb			
+	2995775460	Room_Small	Wwise RoomVerb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	612992703	Wwise Synth One	Wwise Synth One		\Actor-Mixer Hierarchy\Ambience\Abmience\Song\Radio\Wwise Synth One	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	2142953	Foley Box Rattle Empty Glass Bottles 01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Foley Box Rattle Empty Glass Bottles 01_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle_01\Foley Box Rattle Empty Glass Bottles 01		256496
+	16960453	Crash Beer Bottle Break 01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Crash Beer Bottle Break 01_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle\Crash Beer Bottle Break 01		436288
+	111822805	metal_drum_impact_thud_05	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_05_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_05		163264
+	201972401	52 - dog_ mixed breed medium dog_ barking_ animal	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\52 - dog. mixed breed medium dog. barking. animal_89476BD8.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Dogi\52 - dog_ mixed breed medium dog_ barking_ animal		4059632
+	227209182	Foley Box Put Down Empty Glass Bottles 01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Foley Box Put Down Empty Glass Bottles 01_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle_01\Foley Box Put Down Empty Glass Bottles 01		312352
+	228160240	lamp_buzz1	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\lamp_buzz1_66502F93.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\lamp_buzz1		88300
+	230855399	Crash Beer Bottle Drop And Break 02	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Crash Beer Bottle Drop And Break 02_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle\Crash Beer Bottle Drop And Break 02		495680
+	468660830	Crash Beer Bottle On Cinder Block Smash 01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Crash Beer Bottle On Cinder Block Smash 01_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle\Crash Beer Bottle On Cinder Block Smash 01		338572
+	513777066	metal_drum_impact_thud_07	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_07_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_07		172864
+	519274045	53 - dog_ collie large dog - barking_ animal	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\53 - dog. collie large dog - barking. animal_08574587.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Dogi\53 - dog_ collie large dog - barking_ animal		3723184
+	562259302	metal_drum_impact_thud_06	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_06_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_06		142144
+	650759810	song1	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\song_0C592796.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Song\song1		44113952
+	773951458	metal_drum_impact_thud_04	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_04_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_04		197868
+	801760365	51 - dog_ samoyed medium dog_ barking_ animal	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\51 - dog. samoyed medium dog. barking. animal_47EF342C.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Dogi\51 - dog_ samoyed medium dog_ barking_ animal		9251420
+	928371839	Foley Bottles Rattle Glass Empty 01	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Foley Bottles Rattle Glass Empty 01_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle_01\Foley Bottles Rattle Glass Empty 01		216484
+	949186456	metal_drum_impact_thud_08	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_08_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_08		256464
+	957839094	Crash Beer Bottle On Cinder Block Smash 02	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\Crash Beer Bottle On Cinder Block Smash 02_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Bottle\Crash Beer Bottle On Cinder Block Smash 02		302140
+	1002031961	metal_drum_impact_thud_03	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\metal_drum_impact_thud_03_6BE28354.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Garbage\G_Metal\metal_drum_impact_thud_03		211264
+	1053275846	54 - dog_ shepherd large dog - single bark_ animal	C:\Users\ywactiy\Desktop\SoundDesTestTemplate2\sound-designer-test-template_WwiseProject\.cache\Windows\SFX\54 - dog. shepherd large dog - single bark. animal_C2CB5FF8.wem		\Actor-Mixer Hierarchy\Ambience\Abmience\Dogi\54 - dog_ shepherd large dog - single bark_ animal		3948424
+

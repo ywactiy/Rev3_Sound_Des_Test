@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E9C4F503-22E0-4CFB-B862-3D619C181799}" SchemaVersion="97">
+	<Effects>
+		<WorkUnit Name="Default Work Unit" ID="{E9C4F503-22E0-4CFB-B862-3D619C181799}" PersistMode="Standalone">
+			<ChildrenList>
+				<Effect Name="Song" ID="{59E87A41-7A27-437B-A9A0-DB02E7A1B4DF}" PluginName="Wwise Parametric EQ" CompanyID="0" PluginID="105" PluginType="3"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Effects>
+</WwiseDocument>

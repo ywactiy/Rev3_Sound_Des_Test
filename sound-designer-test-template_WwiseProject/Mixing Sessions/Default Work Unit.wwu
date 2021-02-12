@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C2F4D6E2-255A-4EDB-9E07-332FE04FAAB7}" SchemaVersion="97">
+	<MixingSessions>
+		<WorkUnit Name="Default Work Unit" ID="{C2F4D6E2-255A-4EDB-9E07-332FE04FAAB7}" PersistMode="Standalone">
+			<ChildrenList>
+				<MixingSession Name="New Mixing Session" ID="{AA53AA67-2703-43EE-9CFC-FE89C8574E0F}">
+					<ObjectList>
+						<ObjectRef Name="lamp_buzz1" ID="{200F1C0F-B64E-4BCE-8F05-6F49A49FEA25}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="Song" ID="{DB162E03-99E2-4F61-8A65-B263F9D904D1}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="Garbage" ID="{0C4F9FA3-6018-4296-A614-06CBD4FE2A32}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="Baby" ID="{A7A1C3C3-39AC-4C10-B628-311BAAE52B0D}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="Dogi" ID="{ED32E652-6873-4698-83EA-7FBE7E9ADA23}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="City" ID="{C6EF7C6D-4D5F-4AEF-B22C-21BFF8C878CB}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="City_top" ID="{67CBA10C-718D-4284-9BB6-F6471F660706}" WorkUnitID="{6E97F483-15D1-4303-87E1-D1D3F258CC2C}"/>
+						<ObjectRef Name="Footsteps" ID="{4E5B6BA8-6D28-451F-B88A-9F95AD5B62BB}" WorkUnitID="{B65D2880-CCB3-45F7-8DD5-AF42ED59202A}"/>
+					</ObjectList>
+				</MixingSession>
+			</ChildrenList>
+		</WorkUnit>
+	</MixingSessions>
+</WwiseDocument>
